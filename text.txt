@@ -1,2 +1,53 @@
-<h1>HELLO</h1>
-<p>HIIIIIIIIIIIIIIIIIIII</p>
+<div class="d-flex flex-column shadow mb-5">
+            <div class="d-flex flex-column p-2 bg-dark align-items-center text-white">
+                <h2 class="font-monospace border-bottom border-3 mb-3 rounded">Title</h2>
+                <p class="px-3 align-self-start">
+                    HELLO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt aspernatur temporibus molestias atque aliquam possimus a eaque cumque delectus, eos omnis quo reprehenderit, eum blanditiis?
+                </p>
+            </div>
+        </div>
+
+        <div class="d-flex flex-column shadow mb-5">
+            <div class="d-flex flex-column p-2 bg-dark align-items-center text-white">
+                <h2 class="font-monospace border-bottom border-3 mb-3 rounded">Title</h2>
+                <p class="px-3 align-self-start">
+                    HELLO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt aspernatur temporibus molestias atque aliquam possimus a eaque cumque delectus, eos omnis quo reprehenderit, eum blanditiis?
+                </p>
+            </div>
+        </div>
+
+        <div class="d-flex flex-column shadow mb-5">
+            <div class="d-flex flex-column p-2 bg-dark align-items-center text-white">
+                <h2 class="font-monospace border-bottom border-3 mb-3 rounded">Title</h2>
+                <p class="px-3 align-self-start">
+                    HELLO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt aspernatur temporibus molestias atque aliquam possimus a eaque cumque delectus, eos omnis quo reprehenderit, eum blanditiis?
+                </p>
+            </div>
+        </div>
+
+        <div class="d-flex flex-column shadow mb-5">
+            <div class="d-flex flex-column p-2 bg-dark align-items-center text-white">
+                <h2 class="font-monospace border-bottom border-3 mb-3 rounded">Title</h2>
+                <p class="px-3 align-self-start">
+                    HELLO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt aspernatur temporibus molestias atque aliquam possimus a eaque cumque delectus, eos omnis quo reprehenderit, eum blanditiis?
+                </p>
+            </div>
+        </div>
+
+        <div class="d-flex flex-column shadow mb-5">
+            <div class="d-flex flex-column p-2 bg-dark align-items-center text-white">
+                <h2 class="font-monospace border-bottom border-3 mb-3 rounded">Title</h2>
+                <p class="px-3 align-self-start">
+                    HELLO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt aspernatur temporibus molestias atque aliquam possimus a eaque cumque delectus, eos omnis quo reprehenderit, eum blanditiis?
+                </p>
+            </div>
+        </div>
+
+        <div class="d-flex flex-column shadow mb-5">
+            <div class="d-flex flex-column p-2 bg-dark align-items-center text-white">
+                <h2 class="font-monospace border-bottom border-3 mb-3 rounded">Title</h2>
+                <p class="px-3 align-self-start">
+                    HELLO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt aspernatur temporibus molestias atque aliquam possimus a eaque cumque delectus, eos omnis quo reprehenderit, eum blanditiis?
+                </p>
+            </div>
+        </div>

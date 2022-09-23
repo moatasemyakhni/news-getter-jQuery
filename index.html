@@ -12,7 +12,7 @@
     
     <script type="text/javascript">
        $(document).ready(() => {
-            $.get("text.txt", (data, status) => {
+            $.get("apis/get-news-api.php", (data, status) => {
                 $("#test").html(data);//insert html
                 //alert(status);
             })
